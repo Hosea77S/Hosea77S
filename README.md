@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hosea77S
-- 👀 I’m interested in game development, simulations of the natural world, and analogue circuit design. 
-- 🌱 I’m currently persuing a bachelor's Electrical and electronics engineering.
-- 💞️ I’m looking to collaborate on android game development in spare time. 
+- 👀 I’m interested in general problem solving, analogue circuit design, and the 'natural world'.
+- 🌱 I’m currently persuing a Master's degree in Electrical and electronics engineering.
 - 📫 reach me @ shphetla77@gmail.com
 
 <!---
